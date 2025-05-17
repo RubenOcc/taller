@@ -1,0 +1,63 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de entornos de desarrollo
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Dependencias
+node_modules/
+bower_components/
+jspm_packages/
+
+# Archivos de construcción y dependencias
+/dist/
+/build/
+/out/
+*.tmp
+*.log
+
+# Archivos de entorno
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Cache
+.cache/
+
+# Paquetes de gestores de paquetes
+*.tgz
+
+# Editor
+*.swp
+*.swo
+
+# Archivos de depuración
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Testing
+/coverage/
+*.lcov
+
+# Misc
+*.bak
+*.dump
+
+#Python
+__pycache__/
+*.py[cod]
+*.venv
+venv/
+ENV/

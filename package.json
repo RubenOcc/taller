@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.1.5",
+    "tailwindcss": "^4.1.5"
+  },
+  "dependencies": {
+    "datatables": "^1.10.18",
+    "jquery": "^3.7.1"
+  }
+}
